@@ -74,3 +74,7 @@ footer{
     border-radius: 30px;
     padding: 5px;
 }
+
+td.noborder,th.noborder,tr.noborder{
+    border: none;
+}
