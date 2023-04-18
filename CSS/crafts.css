@@ -54,7 +54,7 @@ p.text{
     border-radius: 10px;
 }
 
-p{
+p,h2{
     color: white;
 }
 
