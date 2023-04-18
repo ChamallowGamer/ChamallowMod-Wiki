@@ -74,3 +74,6 @@ table, caption, th, td, tr {
     border: 2px solid grey;
     border-radius: 10px;
 }
+td.noborder,th.noborder,tr.noborder{
+    border: none;
+}
